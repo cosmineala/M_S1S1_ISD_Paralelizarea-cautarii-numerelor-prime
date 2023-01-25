@@ -1,0 +1,1 @@
+# M_S1S1_ISD_Paralelizarea-cautarii-numerelor-prime
